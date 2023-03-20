@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Movies">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=HMECL005931;Initial Catalog=Movies</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source Movies</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>4b3903d4-4bdc-4def-abbc-eacb24aaac76</DataSourceID>
+</RptDataSource>
